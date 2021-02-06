@@ -1,0 +1,6 @@
+C:\Users\qweasdzxc123\source\repos\ZeroProject\Launcher-Dumper\bin\Debug\Launcher-Dumper.exe.config
+C:\Users\qweasdzxc123\source\repos\ZeroProject\Launcher-Dumper\bin\Debug\Launcher-Dumper.exe
+C:\Users\qweasdzxc123\source\repos\ZeroProject\Launcher-Dumper\bin\Debug\Launcher-Dumper.pdb
+C:\Users\qweasdzxc123\source\repos\ZeroProject\Launcher-Dumper\obj\Debug\Launcher-Dumper.csproj.CoreCompileInputs.cache
+C:\Users\qweasdzxc123\source\repos\ZeroProject\Launcher-Dumper\obj\Debug\Launcher-Dumper.exe
+C:\Users\qweasdzxc123\source\repos\ZeroProject\Launcher-Dumper\obj\Debug\Launcher-Dumper.pdb
